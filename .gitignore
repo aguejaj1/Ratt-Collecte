@@ -1,0 +1,10 @@
+.env
+.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+postgres_data/
+qa_render/
+build_notebook.py/
+build_pdf.py/
+build_report.py/
